@@ -1,2 +1,2 @@
 # Brief.github.io
-<img src="Mockup.jpg" alt="Mockup">
+<img src="my-images/Mockup.jpg" alt="Mockup">
